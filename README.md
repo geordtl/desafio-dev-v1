@@ -4,3 +4,12 @@
 <br>
 
 Projeto desenvolvido com VueJS e JavaScript. 
+Api consumida: https://api.themoviedb.org/3/movie/
+<br>
+Funcionalidades:
+
+ [x] Listagem dos filmes.
+ [x] Informações listadas: poster e  título. Na tela de detalhes são listados mais dados, como:  sinopse, média de votos e data de publicação.
+ [x] Sistema de busca pelo nome do filme (input).
+ [x] Lista de favoritos, onde é possível visualizar os itens favoritados em uma tela específica (exibindo pôster e título).
+ [x] Responsividade desktop e mobile
