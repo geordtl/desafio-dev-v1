@@ -4,7 +4,10 @@
 Api consumida: https://api.themoviedb.org/3/movie/
  #
  
-### WebSite: http://geovanna.xt.dev.br/
+### WebSite: 
+http://geovanna.xt.dev.br/
+
+ #
 
 Projeto desenvolvido com VueJS e JavaScript. 
 <div style="display: inline-block">
