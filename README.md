@@ -11,7 +11,7 @@ Projeto desenvolvido com VueJS e JavaScript.
 
 #
 
-Funcionalidades:
+### Funcionalidades:
 
  [x] Listagem dos filmes. <br>
  [x] Informações listadas: poster e  título. Na tela de detalhes são listados mais dados, como:  sinopse, média de votos e data de publicação. <br>
