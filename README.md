@@ -4,12 +4,12 @@
 Api consumida: https://api.themoviedb.org/3/movie/
  #
 Projeto desenvolvido com VueJS e JavaScript. 
-
 <div style="display: inline-block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
 </div>
 <br>
+
 Funcionalidades:
 
  [x] Listagem dos filmes.
