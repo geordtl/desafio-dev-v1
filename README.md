@@ -2,7 +2,8 @@
 
 ## Desafio-dev-v1
 Api consumida: https://api.themoviedb.org/3/movie/
-<br>
+
+ #
 
 Projeto desenvolvido com VueJS e JavaScript. 
 <br>
