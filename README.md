@@ -4,7 +4,6 @@
 Api consumida: https://api.themoviedb.org/3/movie/
 
  #
-
 Projeto desenvolvido com VueJS e JavaScript. 
 <br>
 Funcionalidades:
