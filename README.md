@@ -13,8 +13,8 @@ Projeto desenvolvido com VueJS e JavaScript.
 
 Funcionalidades:
 
- [x] Listagem dos filmes.
- [x] Informações listadas: poster e  título. Na tela de detalhes são listados mais dados, como:  sinopse, média de votos e data de publicação.
- [x] Sistema de busca pelo nome do filme (input).
- [x] Lista de favoritos, onde é possível visualizar os itens favoritados em uma tela específica (exibindo pôster e título).
- [x] Responsividade desktop e mobile
+ [x] Listagem dos filmes. <br>
+ [x] Informações listadas: poster e  título. Na tela de detalhes são listados mais dados, como:  sinopse, média de votos e data de publicação. <br>
+ [x] Sistema de busca pelo nome do filme (input). <br>
+ [x] Lista de favoritos, onde é possível visualizar os itens favoritados em uma tela específica (exibindo pôster e título). <br>
+ [x] Responsividade desktop e mobile <br>
